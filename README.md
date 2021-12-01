@@ -1,7 +1,7 @@
 # moderneSoftwareEntw
 
 
-# Content
+# Inhalt
 viergewinnt
 Beinhaltet code vom Spiel viergewinnt
 
