@@ -1,8 +1,8 @@
 # moderneSoftwareEntw
 
 
-Content
+#Content
 viergewinnt
-Contains the source code of the viergewinnt game
+Beinhaltet code vom Spiel viergewinnt
 
 viergewinnt.java
